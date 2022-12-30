@@ -13,7 +13,7 @@ const Navbar = () => {
     <img height="50px" src={"https://chennaimetrorail.org/wp-content/themes/CMRL/images/govt-of-india.png"} alt="logo"/>
     </div>
     <div className="col-4">
-      <img height="60px" src={"cmrl"} alt="logo"/>
+      <img height="60px" src={cmrl} alt="logo"/>
     </div>
     <div className="col-4">
     <img height="50px" src={"https://chennaimetrorail.org/wp-content/themes/CMRL/images/govt-of-tn.png"} alt="logo"/>
